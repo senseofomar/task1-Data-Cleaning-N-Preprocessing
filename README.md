@@ -12,5 +12,5 @@ The goal of this task is to learn how to prepare raw, messy data for Machine Lea
 
 ## Tools Used
 * Python
-* Pandas & NumPy
+* Pandas
 * Scikit-Learn (StandardScaler, LabelEncoder)
